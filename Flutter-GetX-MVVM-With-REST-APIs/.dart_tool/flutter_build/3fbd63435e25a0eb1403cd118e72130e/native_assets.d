@@ -1,0 +1,1 @@
+ /Users/nikhilnandha/Documents/ProjectFiles/FitPage/Flutter-GetX-MVVM-With-REST-APIs/.dart_tool/flutter_build/3fbd63435e25a0eb1403cd118e72130e/native_assets.yaml: 

@@ -1,0 +1,14 @@
+com.example.getx_mvvm.app-core-1.6.0-0 /Users/nikhilnandha/.gradle/caches/transforms-3/1878396eec70f7b209487358072745c8/transformed/core-1.6.0/res
+com.example.getx_mvvm.app-jetified-window-java-1.0.0-beta04-1 /Users/nikhilnandha/.gradle/caches/transforms-3/2f3de8bdb91d4449c8f0fbcac8f6d57a/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.getx_mvvm.app-jetified-annotation-experimental-1.1.0-2 /Users/nikhilnandha/.gradle/caches/transforms-3/98378ee26dc33aa5b078ea475b3291ff/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.getx_mvvm.app-jetified-window-1.0.0-beta04-3 /Users/nikhilnandha/.gradle/caches/transforms-3/d26541628c36c8491a121e0b2c63170f/transformed/jetified-window-1.0.0-beta04/res
+com.example.getx_mvvm.app-debug-4 /Users/nikhilnandha/Documents/ProjectFiles/FitPage/Flutter-GetX-MVVM-With-REST-APIs/android/app/src/debug/res
+com.example.getx_mvvm.app-main-5 /Users/nikhilnandha/Documents/ProjectFiles/FitPage/Flutter-GetX-MVVM-With-REST-APIs/android/app/src/main/res
+com.example.getx_mvvm.app-pngs-6 /Users/nikhilnandha/Documents/ProjectFiles/FitPage/Flutter-GetX-MVVM-With-REST-APIs/build/app/generated/res/pngs/debug
+com.example.getx_mvvm.app-resValues-7 /Users/nikhilnandha/Documents/ProjectFiles/FitPage/Flutter-GetX-MVVM-With-REST-APIs/build/app/generated/res/resValues/debug
+com.example.getx_mvvm.app-rs-8 /Users/nikhilnandha/Documents/ProjectFiles/FitPage/Flutter-GetX-MVVM-With-REST-APIs/build/app/generated/res/rs/debug
+com.example.getx_mvvm.app-mergeDebugResources-9 /Users/nikhilnandha/Documents/ProjectFiles/FitPage/Flutter-GetX-MVVM-With-REST-APIs/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.getx_mvvm.app-mergeDebugResources-10 /Users/nikhilnandha/Documents/ProjectFiles/FitPage/Flutter-GetX-MVVM-With-REST-APIs/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.getx_mvvm.app-merged_res-11 /Users/nikhilnandha/Documents/ProjectFiles/FitPage/Flutter-GetX-MVVM-With-REST-APIs/build/app/intermediates/merged_res/debug
+com.example.getx_mvvm.app-packaged_res-12 /Users/nikhilnandha/Documents/ProjectFiles/FitPage/Flutter-GetX-MVVM-With-REST-APIs/build/fluttertoast/intermediates/packaged_res/debug
+com.example.getx_mvvm.app-packaged_res-13 /Users/nikhilnandha/Documents/ProjectFiles/FitPage/Flutter-GetX-MVVM-With-REST-APIs/build/shared_preferences_android/intermediates/packaged_res/debug
